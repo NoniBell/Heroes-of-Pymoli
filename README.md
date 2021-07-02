@@ -1,4 +1,4 @@
-# pandas-challenge
+# Heroes of Pymoli
 1. Perhaps the most obvious observable trend is the overwhelming predominance of male 
 players versus other genders. As such, males also make up the overwhelming majority
 of purchases, although (perhaps based on their smaller sampling size) "other/non-disclosed"
